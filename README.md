@@ -1,12 +1,12 @@
 This script was prepared within the scope of the sample scenario and scenario in QA Hunt Academy.
 
-# Nobel Prize Scraper
+# Nobelyayin.com Scraper
 
-This is a simple web scraper that extracts contact information from the [Nobel Prize](https://www.nobelyayin.com/kurumsal/) website.
+This is a simple web scraper that extracts contact information from the [Nobelyayin.com](https://www.nobelyayin.com/kurumsal/) website.
 
 ## Usage
 
-The script uses [Playwright](https://playwright.dev/) to launch a Chromium browser, navigate to the Nobel Prize website, and extract the following information into an Excel spreadsheet:
+The script uses [Playwright](https://playwright.dev/) to launch a Chromium browser, navigate to the Nobelyayin.com website, and extract the following information into an Excel spreadsheet:
 
 - Name
 - Role 
@@ -20,7 +20,7 @@ The script prints the extracted information to the console as it scrapes. It als
 ## Requirements
 
 - Python 3
-- Playwright (`pip install playwright`)
+- Playwright (`pip install pytest-playwright`)
 - XlsxWriter (`pip install XlsxWriter`)
 
 ## Example Output
