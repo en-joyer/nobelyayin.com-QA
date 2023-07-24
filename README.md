@@ -8,6 +8,7 @@ This script was prepared within the scope of the sample scenario and scenario in
 
 </div>
 
+
 # Nobelyayin.com Scraper
 
 This is a simple web scraper that extracts contact information from the [Nobelyayin.com](https://www.nobelyayin.com/kurumsal/) website.
