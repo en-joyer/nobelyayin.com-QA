@@ -1,5 +1,13 @@
 This script was prepared within the scope of the sample scenario and scenario in QA Hunt Academy.
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Playwright](https://img.shields.io/badge/playwright-%23242526.svg?style=for-the-badge&logo=playwright&logoColor=%45ba4b)
+[![QA HUNT - Academy](https://img.shields.io/badge/QA_HUNT-Academy-blue?style=for-the-badge)](https://)
+
+</div>
+
 # Nobelyayin.com Scraper
 
 This is a simple web scraper that extracts contact information from the [Nobelyayin.com](https://www.nobelyayin.com/kurumsal/) website.
